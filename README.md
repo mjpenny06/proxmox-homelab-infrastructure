@@ -1,8 +1,6 @@
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/b9e84f44-2f81-4bbf-9831-5fe2a2a35c2a" /># ProxmoxVE Homelab Infrastructure
-
 This A 4-node ProxmoxVE virtualization cluster built for enterprise infrastructure, virtualization, networking, storage, and cybersecurity laboratory environments.
 
-## Project Overview
+### Project Overview ###
 
 This project demonstrates the design, deployment, and operation of a multi-node Proxmox VE cluster with distributed storage using Ceph.
 
