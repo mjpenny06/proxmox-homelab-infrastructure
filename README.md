@@ -73,7 +73,7 @@ See the troubleshooting documentation:
 - To create a realistic enterprise-style home lab environment for testing servers, applications, networking technologies, and security tools.
 - To develop troubleshooting and root-cause analysis skills by intentionallyinvestigating and resolving infrastructure failures.
 - The long-term goal is to integrate this Proxmox environment with AWS to create a hybrid infrastructure laboratory.
-- - To demonstrate practical infrastructure engineering skills through a documented, reproducible, and continuously improving homelab project.
+- To demonstrate practical infrastructure engineering skills through a documented, reproducible, and continuously improving homelab project.
 
 
 ## Future Improvements
