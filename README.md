@@ -1,6 +1,6 @@
 This A 4-node ProxmoxVE virtualization cluster built for enterprise infrastructure, virtualization, networking, storage, and cybersecurity laboratory environments.
 
-### Project Overview ###
+## Project Overview ##
 
 This project demonstrates the design, deployment, and operation of a multi-node Proxmox VE cluster with distributed storage using Ceph.
 
@@ -18,7 +18,7 @@ This project demonstrates the design, deployment, and operation of a multi-node 
 | Monitoring     | Prometheus / Grafana 
 | Networking     | Unmanaged SW / Linux Bridge 
 
-###  Architecture ### 
+###  Architecture ###
 
 <img width="1206" height="1305" alt="image" src="https://github.com/user-attachments/assets/bd19c75d-ea0f-4c53-b12b-e6b951a83dc8" />
 
