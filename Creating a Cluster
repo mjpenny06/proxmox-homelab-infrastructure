@@ -1,1 +1,26 @@
+Creating a Cluster in ProxmoxVE
+Go to Datacenter > Cluster > Create Cluster.
+
+
+
+Input a cluster name then hit create 
+
+
+The Cluster is now created, Once the cluster is created join other ProxmoxVE to that Cluster 
+
+
+Go to Cluster > Join information > Click > Copy the joint information. 
+
+
+
+
+Now go back to the node that will join the cluster click on Join Cluster and paste the copied information on the box, provide the root password then hit the Join Button.
+
+
+It will show a new dialog box showing and the status information of the process, this will take around 2-3minutes if nothing happens refresh the page.
+
+
+Once Completed it will show all available VM Machine in a cluster. 
+
+
 
