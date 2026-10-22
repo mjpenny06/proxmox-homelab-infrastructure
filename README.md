@@ -8,7 +8,7 @@ This project demonstrates the design, deployment, and operation of a multi-node 
 
 | Component      | Specification 
 |----------------|---------------------
-| Hypervisor     | Type 1:ProxmoxVE 
+| Hypervisor     | ProxmoxVE 
 | Nodes          | 4 
 | CPU            | Intel Core i7-4790 
 | Memory         | 32 GB DDR3 per node 
