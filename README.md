@@ -4,7 +4,7 @@ This A 4-node ProxmoxVE virtualization cluster built for enterprise infrastructu
 
 This project demonstrates the design, deployment, and operation of a multi-node Proxmox VE cluster with distributed storage using Ceph.
 
-### Infrastructure ###
+### Compute ###
 
 | Component      | Specification 
 |----------------|---------------------
